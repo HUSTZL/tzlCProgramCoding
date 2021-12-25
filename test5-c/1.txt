@@ -1,0 +1,15 @@
+1
+7
+Jack 95
+Mike 90
+Joe 75
+Andy 95
+Rose 89
+Sophia 77  
+Biden 100
+2
+3
+4 89
+4 45
+4 100
+0
